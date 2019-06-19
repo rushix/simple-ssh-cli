@@ -1,0 +1,23 @@
+{
+  "name": "simple-ssh-cli",
+  "version": "0.0.1",
+  "description": "Just another ssh client",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushix/simple-ssh-cli.git"
+  },
+  "keywords": [
+    "ssh",
+    "client"
+  ],
+  "author": "rushix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushix/simple-ssh-cli/issues"
+  },
+  "homepage": "https://github.com/rushix/simple-ssh-cli#readme"
+}
