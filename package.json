@@ -22,6 +22,6 @@
   "homepage": "https://github.com/rushix/simple-ssh-cli#readme",
   "dependencies": {
     "lodash": "^4.17.11",
-    "ssh2": "^0.8.4"
+    "ssh2": "^1.4.0"
   }
 }
